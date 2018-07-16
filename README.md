@@ -6,7 +6,7 @@
 4. npm install --save @angular/animations
 5. npm i --save hammerjs
 
-6. import your modules neccesarys
+6. import your necessary modules
 
 example:
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
