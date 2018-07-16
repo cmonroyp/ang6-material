@@ -8,7 +8,7 @@
 
 6. import your necessary modules
 
-example:
+example:</br>
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule, MatCardModule, MatMenuModule, MatToolbarModule, MatIconModule } from '@angular/material';
 
